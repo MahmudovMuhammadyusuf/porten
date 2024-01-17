@@ -1,0 +1,16 @@
+/* Normalize */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul li{
+    text-decoration: none;
+
+}
+a{
+    background: 0;
+    border: 0;
+    outline: 0;
+}
